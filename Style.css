@@ -14,7 +14,7 @@ body{
     
 p{
     color: black;
-    font-weight: bold
+    font-weight: bold;
 }
 
 header{
@@ -26,5 +26,5 @@ footer{
 }
 
 #nome-usuário{
-    font-weight: bolder;
- }
+    font-style: italic;
+}

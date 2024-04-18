@@ -4,7 +4,7 @@ let elemento = document.querySelector("#nome-genosse");
 
 
 while(pergunta_usuário == ""){
-    pergunta_usuário = prompt (prompt ("Wie ist Dein Name?"));
+    pergunta_usuário = (prompt ("Wie ist Dein Name?"));
 }
 
 if(pergunta_usuário == null ){
